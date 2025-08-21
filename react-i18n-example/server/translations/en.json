@@ -1,0 +1,12 @@
+{
+  "home": {
+    "title": "Welcome to the Home Page",
+    "description": "This is the home page of the application.",
+    "about": "Go to About Page"
+  },
+  "about": {
+    "title": "About Page",
+    "description": "This is the about page of the application.",
+    "home": "Go to Home Page"
+  }
+}

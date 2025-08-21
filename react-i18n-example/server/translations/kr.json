@@ -1,0 +1,12 @@
+{
+  "home": {
+    "title": "홈 페이지",
+    "description": "이것은 홈 페이지의 설명입니다.",
+    "about": "About 페이지로 이동"
+  },
+  "about": {
+    "title": "About 페이지",
+    "description": "이것은 About 페이지의 설명입니다.",
+    "home": "홈 페이지로 이동"
+  }
+}
